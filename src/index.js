@@ -1,7 +1,2 @@
-const logger = require('./logger');
-
-function main() {
-  logger.info('Hello, World!');
-}
-
-main();
+// src/index.js
+console.log('Hello, World!');
