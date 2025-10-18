@@ -1,2 +1,5 @@
 // src/index.js
-console.log('Hello, World!');
+
+const message = require('./message');
+
+console.log(message.greeting());
